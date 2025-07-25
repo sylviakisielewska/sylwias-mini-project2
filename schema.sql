@@ -1,5 +1,5 @@
-CREATE DATABASE IF NOT EXISTS chicken_database;
-USE chicken_database
+CRETAE DATABASE IF NOT EXISTS chicken_database;
+USE chicken_database;
 
 CRETAE TABLE IF NOT EXISTS products (
     id INT AUTO_INCREMENT PRIMARY KEY,

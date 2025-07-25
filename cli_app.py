@@ -8,7 +8,7 @@ def main():
         print("1. Extract Data")
         print("2. Transform Data")
         print("3. Load Data to MySQL")
-        print("5. Exit")
+        print("4. Exit")
         
         choosen_option = input("Choose an option: ")
         
